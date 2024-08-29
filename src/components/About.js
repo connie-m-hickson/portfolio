@@ -8,8 +8,8 @@ function About() {
         <h2>About Me</h2>
         <img src={photo} alt="My Photo" className="about-photo" />
         <p>
-          Hi, I'm [Your Name], a passionate web developer with a love for
-          creating dynamic and user-friendly web applications...
+          Hi, I'm Connie, a passionate web developer with a love for creating
+          dynamic and user-friendly web applications...
         </p>
       </div>
     </section>
